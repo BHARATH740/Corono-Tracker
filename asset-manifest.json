@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Corono-Tracker/static/css/main.9640ed68.css",
+    "main.js": "/Corono-Tracker/static/js/main.9182fe48.js",
+    "static/media/image.png": "/Corono-Tracker/static/media/image.9e5d4fc7428c24bbc17d.png",
+    "index.html": "/Corono-Tracker/index.html",
+    "main.9640ed68.css.map": "/Corono-Tracker/static/css/main.9640ed68.css.map",
+    "main.9182fe48.js.map": "/Corono-Tracker/static/js/main.9182fe48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9640ed68.css",
+    "static/js/main.9182fe48.js"
+  ]
+}
