@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(240, 240, 240);
+    /* display: flex; */
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.img {
+    width: 370px;
+    margin-top: 50px;
+}
+
+@media (max-width: 770px) {
+    .container{
+        margin: 0 10px;
+    }
+
+    .img{
+        width: 100%;
+    }
+    
+}
